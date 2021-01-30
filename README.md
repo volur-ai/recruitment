@@ -1,2 +1,4 @@
-# recruitment
-Sandbox of exercises for recruitment of potential candidates
+# Völur Recruitment
+
+Sandbox of exercises for recruitment of our next all-star!
+
