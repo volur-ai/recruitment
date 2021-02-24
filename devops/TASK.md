@@ -1,6 +1,10 @@
 Task for DevOps Engineer position:
 
-1) Take some sample code of your own choosing for a stateless service intended to be containerized and run as an Azure function (there are a couple of sources below that you could use if you'd like to, but preferably take any custom code that allows you to quickly move over to thinking about devops). It isn't strictly necessary that your sample code is runnable code, but maybe it's nice to have something to refer to and as a starting point for a repo. We mainly use github and git for source control.
+Key info:
+We mainly use github for repos and git for source control. Our main cloud provider is Azure. Would like to use Azure Pipelines and have started using Azure Functions. Python is an important language for our development.
+
+
+1) Take some sample code of your own choosing for a stateless service intended to be containerized and run as an Azure function (there are a couple of sources below that you could use if you'd like to, but preferably take any custom code that allows you to quickly move over to thinking about devops). It isn't strictly necessary that your sample code is runnable code, but maybe it's nice to have something to refer to and as a starting point for a repo.
 2) After you've chosen some sample code for a stateless service, write down a brief description of the part of the dev team's workflow that relates to CI/CD - only specifics affected by your choices.
 3) Formulate a few sketches of scripts (richly commented upon) that would form a pipeline from development to deployment via testing. Use Microsoft-hosted agents from the pre-defined agent pool in Azure Pipelines.
 4) What scripting languages did you choose and why?
