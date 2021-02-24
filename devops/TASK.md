@@ -5,7 +5,7 @@ Task for DevOps Engineer position:
 3) Formulate a few sketches of scripts (richly commented upon) that would form a pipeline from development to deployment via testing. Use Microsoft-hosted agents from the pre-defined agent pool in Azure Pipelines.
 4) What scripting languages did you choose and why?
 5) Make a graphical account of your idea for a pipeline, incorporating components and resources.
-6) Formulate (in yaml sketches) and words the Azure pipeline jobs and steps that you imagine should form a minimal, but realistic pipeline.
+6) Formulate (in yaml sketches and words) the Azure pipeline jobs and steps that you imagine should form a minimal, but realistic pipeline.
 7) What choices did you make regarding container hosting on Azure, and why?
 8) Can one use Application Insights to monitor and study telemetry of containerized (stateless) services in the form of Azure functions? If so, how? If not, how would you do it?
 9) Can you sketch a plan for scaling containerized Azure functions hosted in Azure with choices of tools and libraries?
