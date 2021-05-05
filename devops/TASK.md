@@ -1,4 +1,4 @@
-Task for DevOps Engineer position:
+Task for a Lead Software Developer position:
 
 Key info:
 We mainly use github for repos and git for source control. Our main cloud provider is Azure. Would like to use Azure Pipelines and have started using Azure Functions. Python is an important language for our development.
